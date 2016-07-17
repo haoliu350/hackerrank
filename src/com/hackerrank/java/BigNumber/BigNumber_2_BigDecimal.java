@@ -1,4 +1,4 @@
-package com.hackerrank.java;
+package com.hackerrank.java.BigNumber;
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Collections;

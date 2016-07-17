@@ -1,4 +1,4 @@
-package com.hackerrank.java;
+package com.hackerrank.java.DataStructure;
 import java.util.Scanner;
 
 public class DataStructure_3_NegativeSubArray {
